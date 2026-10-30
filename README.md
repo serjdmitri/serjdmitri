@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sergey 👋
 
-<!--
-**serjdmitri/serjdmitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student interested in AI, cybersecurity, robotics, and computer science.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Building JARVIS, my own AI assistant
+- 🦾 VEX Robotics programmer and strategy team member
+- 🔐 Cybersecurity projects and research
+- 💻 Software development and web projects
+
+## 🛠️ Technologies
+
+Python • Java • JavaScript • HTML • CSS • Git • GitHub
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below.
+
+## 🌐 Connect With Me
+
+- Personal Website: https://serjdmitri.github.io/Sergey-Dmitriev-Website-and-Robotics/website/
+- LinkedIn: https://www.linkedin.com/in/sergey-dmitriev-a94a30357/
