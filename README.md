@@ -124,9 +124,9 @@ Projects involving networking, authentication, threat detection, security resear
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Personal_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](YOUR-WEBSITE-HERE)
+[![Website](https://img.shields.io/badge/Personal_Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://serjdmitri.github.io/Sergey-Dmitriev-Website-and-Robotics/website/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-dmitriev-a94a30357/overlay/contact-info)
 
 </div>
 
