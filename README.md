@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Sergey Dmitriev
 
-### AI • Cybersecurity • Robotics • Software Development
+### AI • Computer Engineering • Robotics • CS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Developing+JARVIS+%F0%9F%A4%96;Robotics+%7C+Cybersecurity+%7C+Software;Turning+ideas+into+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Computer+Engineering+%26+CS;Robotics+%7C+Cybersecurity+%7C+Software;Turning+ideas+into+real+projects" alt="Typing SVG" />
 
 </div>
 
@@ -23,37 +23,13 @@ I'm a high school developer interested in building technology that combines **ar
 
 ---
 
-## 🤖 JARVIS
+## 🔥 GitHub Streak
 
-One of my main projects is **JARVIS**, an AI assistant designed to bring multiple tools and AI systems together into one interface.
+<div align="center">
 
-I'm working toward features such as:
+<img src="https://streak-stats.demolab.com?user=serjdmitri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-- 🎙️ Voice interaction
-- 🧠 Multi-agent AI collaboration
-- 🌐 Browser automation
-- 📱 Phone integration
-- 💻 Computer automation
-- 🗺️ Integrated maps and navigation
-- 📁 Google Drive & Docs integration
-- 🔐 Secure device communication
-- ⚡ Real-world task execution
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 JARVIS
-AI-powered personal assistant combining voice, automation, applications, browser tools, and multiple AI systems.
-
-### 🔗 Relay
-A software project exploring communication, intelligent automation, and connected systems.
-
-### 🦾 Robotics
-Projects involving autonomous navigation, cameras, sensors, AI, control systems, and secure robot communication.
-
-### 🔐 Cybersecurity
-Projects involving networking, authentication, threat detection, security research, and AI-assisted cybersecurity.
+</div>
 
 ---
 
@@ -78,45 +54,11 @@ Projects involving networking, authentication, threat detection, security resear
 ### Interests
 
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-00D9FF?style=for-the-badge)
+![Computer Engineering](https://img.shields.io/badge/Computer_Engineering-2E7D32?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=00FF9C)
 ![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-7B2CBF?style=for-the-badge)
 ![Software Development](https://img.shields.io/badge/Software_Development-00599C?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=serjdmitri&show_icons=true&hide_border=true&theme=github_dark&title_color=00D9FF&icon_color=00D9FF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serjdmitri&layout=compact&hide_border=true&theme=github_dark&title_color=00D9FF" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=serjdmitri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-🤖 JARVIS Development
-🧠 Multi-Agent AI Systems
-🔐 Cybersecurity
-🦾 Robotics & Autonomous Systems
-🌐 Web Development
-⚡ AI Automation
-```
 
 ---
 
@@ -136,6 +78,6 @@ Projects involving networking, authentication, threat detection, security resear
 
 ### Building intelligent systems that connect software, AI, and the real world.
 
-`AI` • `Cybersecurity` • `Robotics` • `Software`
+`AI` • `Computer Engineering` • `Robotics` • `CS`
 
 </div>
